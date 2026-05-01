@@ -1,0 +1,11 @@
+[package]
+name = "danieluntask/signal"
+description = "Simple and usefully signal module."
+license = "MIT"
+version = "0.1.8"
+authors = ["Gamer32yttea"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Task = "danieluntask/task@0.1.1"

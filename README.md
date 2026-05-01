@@ -2,6 +2,8 @@
 
 A lightweight, high-performance Signal system for Luau, It utilizes a **Doubly Linked List** structure to ensure $O(1)$ time complexity for connection and disconnection operations.
 
+[Wally](https://wally.run/package/danieluntask/signal?version=0.1.8)
+
 ---
 ## v0.1.8 - Critical Fix Summary
 
